@@ -16,6 +16,7 @@ html {
   grid-template-rows: 56px 1fr;
   gap: 20px;
   padding: 35px;
+  margin-top: 90px;
 }
 
 .video-destaque {
